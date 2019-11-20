@@ -1,2 +1,14 @@
 # Workshops
-Workshops for educational content 
+
+# WELCOME
+
+
+
+### Development
+
+Want to contribute? Great!
+
+License
+----
+
+MIT
